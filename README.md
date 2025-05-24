@@ -34,4 +34,7 @@ Click the **Exit** button to close the application.
    ```bash
    git clone https://github.com/DevManoj96/Guess-The-Number.git
    cd Guess-The-Number
+
+2. Run The Game
+   ```bash
    python3 Guess_the_number.py
